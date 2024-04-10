@@ -1,0 +1,4 @@
+2024-04-10 12:13:46,415 - root - INFO - Data loaded successfully from 'train_merged_df.csv'
+2024-04-10 12:13:46,782 - root - INFO - Data preprocessing completed successfully
+2024-04-10 12:13:46,871 - root - INFO - Sales trend analysis completed successfully
+2024-04-10 12:13:47,046 - root - INFO - Sales trend visualization completed successfully
