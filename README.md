@@ -24,5 +24,5 @@ Task 2 - Prediction of store sales
 Task 3 - Serving predictions on a web interface
 
 
-References :- Data sources, analytical tools, and methodologies such as Python Libraries - Numpy, Pandas, Matplotlib, Seaborn, Flask, and Scikit-learn etc for building and evaluating the predictive model in the VS code (Jupyter Notebook) environment, used in the project.
+References :- Data sources, analytical tools, and methodologies such as Python Libraries - Numpy, Pandas, Matplotlib, Seaborn, Flask, Joblib, Scikit-learn and Tensorflow etc for building and evaluating the predictive model in the VS code (Jupyter Notebook) environment, used in the project.
 
