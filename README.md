@@ -1,4 +1,4 @@
-![image](https://github.com/Deepk92/Nexthike_Project-06/assets/147472607/4adbb013-ca53-428c-b777-5976aed3ecd6)# Nexthike_Project-06
+# Nexthike_Project-06
 Pharmaceutical Sales Prediction across multiple stores
 
 Introduction :-  A company called Rossmann Pharmaceuticals has given a project on sales forecasting. The finance team wants to forecast sales in all their stores across several cities six weeks ahead of time. Managers in individual stores rely on their years of experience as well as their personal judgement to forecast sales. 
