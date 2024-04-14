@@ -23,7 +23,7 @@ Task 2 - Prediction of store sales
 
 Task 3 - Serving predictions on a web interface
 
-Note :- Since the Model size is about 2.79 GB, hence it could not be uploaded here.
+PS :- Since the Model size is about 2.79 GB, hence it could not be uploaded here.
 
 
 References :- Data sources, analytical tools, and methodologies such as Python Libraries - Numpy, Pandas, Matplotlib, Seaborn, Flask, Joblib, Scikit-learn and Tensorflow etc for building and evaluating the predictive model in the VS code (Jupyter Notebook) environment, used in the project.
