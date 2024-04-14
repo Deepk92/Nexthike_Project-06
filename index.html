@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Pharmaceutical Sales Prediction</title>
+</head>
+<body>
+    <h1>Sales and Customer Prediction</h1>
+    <form action="/predict" method="post" enctype="multipart/form-data">
+        <label for="store_id">Store ID:</label>
+        <input type="text" id="store_id" name="store_id"><br><br>
+        <label for="file">Upload CSV File:</label>
+        <input type="file" id="file" name="file"><br><br>
+        <button type="submit">Predict</button>
+    </form>
+</body>
+</html>
+
